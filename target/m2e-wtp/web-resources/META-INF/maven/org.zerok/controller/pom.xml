@@ -125,6 +125,13 @@
 		    <scope>test</scope>
 		</dependency>
 
+        <!-- 데이터베이스 -->
+        <!-- https://mvnrepository.com/artifact/com.zaxxer/HikariCP -->
+        <dependency>
+            <groupId>com.zaxxer</groupId>
+            <artifactId>HikariCP</artifactId>
+            <version>3.4.1</version>
+        </dependency>
         <!-- mysql-connector-java -->
         <dependency>
             <groupId>mysql</groupId>
